@@ -22,6 +22,13 @@
   
 </p>
 
+<h2 align="center">💻 Repositories 💻</h2>
+<br>
+<p align="center">more details soon..</p>
+<h4 align="center">
+  <a href="https://github.com/shanechaneshane?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+<br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -45,10 +52,3 @@
 </p>
 
 <hr>
-
-<h2 align="center">💻 Repositories 💻</h2>
-<br>
-<p align="center">more details soon..</p>
-<h4 align="center">
-  <a href="https://github.com/shanechaneshane?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
