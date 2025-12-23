@@ -8,7 +8,11 @@
 
 <br>
 <p align="center">
-  Details soon
+  Hello, I'm a sophomore student of Computer Engineering. This github contains my academic and personal projects. I'm currently learning to build mobile application. Feel free to look around!
+  <br><br>
+  🎓 studying at Chulalongkorn University, Department of Computer Engineering and Digital Technology (CEDT), Thailand
+  <br>
+  🎓 graduated from Triam Udom Suksa High Schol, Thailand
   <br>
   <br>
   📫 How to reach me: <a href="mailto: wannasut.chane@gmail.com">wannasut.chane@gmail.com</a>
