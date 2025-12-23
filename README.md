@@ -46,7 +46,7 @@
 
 <hr>
 
-<h2 align="center"> Repositories 👨‍💻</h2>
+<h2 align="center">💻 Repositories 💻</h2>
 <br>
 <p align="center">more details soon..</p>
 <h4 align="center">
