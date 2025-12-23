@@ -43,7 +43,23 @@
 
 <h2 align="center">💻 Repositories 💻</h2>
 <br>
-<p align="center">more details soon..</p>
+<div width="100%" align="center">
+  <a align="center" href="https://github.com/ShaneChaneShane/CEDT-SE-project" title="Restaurant Reservation Web App">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shanechaneshane&repo=CEDT-SE-project&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br>
+<div align=center>
+  <a align="center" href="https://github.com/ShaneChaneShane/StudyJournal" title="Study Journal Mobile App">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shanechaneshane&repo=StudyJournal&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br>
+<div width="100%" align="center">
+  <a align="center" href="https://github.com/ShaneChaneShane/ExPAINTrimental-Drawing-Qt" title="Painting Desktop App">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shanechaneshane&repo=ExPAINTrimental-Drawing-Qt&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
 <h4 align="center">
   <a href="https://github.com/shanechaneshane?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
