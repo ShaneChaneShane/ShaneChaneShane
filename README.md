@@ -41,45 +41,12 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
 </p>
 
-<h2 align="center">💻 Repositories 💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="center" href="https://github.com/ShaneChaneShane/CEDT-SE-project" title="Restaurant Reservation Web App">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shanechaneshane&repo=CEDT-SE-project&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br>
-<div align=center>
-  <a align="center" href="https://github.com/ShaneChaneShane/StudyJournal" title="Study Journal Mobile App">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shanechaneshane&repo=StudyJournal&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br>
-<div width="100%" align="center">
-  <a align="center" href="https://github.com/ShaneChaneShane/ExPAINTrimental-Drawing-Qt" title="Painting Desktop App">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shanechaneshane&repo=ExPAINTrimental-Drawing-Qt&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<h4 align="center">
-  <a href="https://github.com/shanechaneshane?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-<br>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="center" width=390 src="https://streak-stats.demolab.com/?user=shanechaneshane&theme=react&border=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=shanechaneshane&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanechaneshane&hide=jupyter%20notebook,c,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,CMake&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
