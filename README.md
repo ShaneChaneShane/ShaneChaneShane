@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  Hello, I'm a sophomore student of Computer Engineering. This github contains my academic and personal projects. I'm currently learning to build mobile application. Feel free to look around!
+  Hello, I'm a 3rd student of Computer Engineering. This github contains my academic and personal projects. I'm currently learning to build mobile application. Feel free to look around!
   <br><br>
   🎓 studying at Chulalongkorn University, Department of Computer Engineering and Digital Technology (CEDT), Thailand
   <br>
